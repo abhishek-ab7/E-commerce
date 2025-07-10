@@ -1,6 +1,6 @@
 # ─── Backend (Express) ───────────────────────────
 /Backend/node_modules/      # server dependencies
-/Backend/build/             # React build output that you’re serving
+           # React build output that you’re serving
 /Backend/.env               # your environment variables
 
 # ─── Frontend (Create-React-App) ────────────────
